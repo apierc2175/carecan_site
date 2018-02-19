@@ -52,6 +52,9 @@ div.col-xs-8 {
  margin: 0 auto;
 }
 
+div#newsletter {
+  background-color: ;
+}
 
 /**** content styles ***/
 
@@ -64,6 +67,10 @@ h1 {
 
 h2 {
 
+}
+
+h2.newsletter {
+  color: black;
 }
 
 h3 {
